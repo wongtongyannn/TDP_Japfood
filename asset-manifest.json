@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TDP_Japfood/static/css/main.2940b1e5.css",
+    "main.js": "/TDP_Japfood/static/js/main.95cd5580.js",
+    "static/js/453.68616b1f.chunk.js": "/TDP_Japfood/static/js/453.68616b1f.chunk.js",
+    "static/media/jap-food-2.jpg": "/TDP_Japfood/static/media/jap-food-2.29282ac89e4b4e73af29.jpg",
+    "static/media/jap-food-1.jpg": "/TDP_Japfood/static/media/jap-food-1.2f5cb6bd4d9d310a22e0.jpg",
+    "index.html": "/TDP_Japfood/index.html",
+    "main.2940b1e5.css.map": "/TDP_Japfood/static/css/main.2940b1e5.css.map",
+    "main.95cd5580.js.map": "/TDP_Japfood/static/js/main.95cd5580.js.map",
+    "453.68616b1f.chunk.js.map": "/TDP_Japfood/static/js/453.68616b1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2940b1e5.css",
+    "static/js/main.95cd5580.js"
+  ]
+}
