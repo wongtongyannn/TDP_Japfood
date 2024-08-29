@@ -1,24 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import Japfood from "./components/Japfood";
+import Japfoodmenu from "./components/Japfoodmenu";
+import Japfoodhero from "./components/Japfoodhero";
+import Japfoodaboutus from "./components/Japfoodaboutus";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <Japfood />
+    <Japfoodmenu home="Home" about= "About Us" menu="Our Menu" contact="Contact Us"/>
+    <Japfoodhero />
+    <Japfoodaboutus />
+    </>
   );
 }
 
