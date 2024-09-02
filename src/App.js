@@ -15,6 +15,7 @@ import Coloureddice from "./components/Coloureddice";
 import Surveryform from "./components/Surveyform";
 import Contactusform from "./components/Contactusform";
 import Randomuser from "./Randomuser";
+import Users from "./Users"; 
 
 function App() {
   return (
@@ -40,6 +41,7 @@ function App() {
     <Contactusform />
     <br></br>
     <Randomuser />
+    <Users />
     </>
   );
 }

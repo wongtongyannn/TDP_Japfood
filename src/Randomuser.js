@@ -20,7 +20,7 @@ const Randomuser = () => {
     //     setFirstName(data.data.results[0].name.first);
     //     setLastName(data.data.results[0].name.last);
     // })
-}, [change]);
+}, [change]); //when [change] is removed, the user will generate non-stop
 
 return (
     <>
