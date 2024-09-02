@@ -1,0 +1,22 @@
+#sushi {
+    background-image: url(jap-food-3.jpg);
+    width: 100%;
+    height: calc(100vh - 40px); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
+#sushi .content {
+    background-color: rgba(0,0,0,0.5);
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0.1px; /* margin collapse! */
+  }
+
+#sushi .content h1 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 1em;
+  }
